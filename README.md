@@ -18,7 +18,7 @@ npx playwright install chromium
 cp env/.env.example env/.env.qa
 ```
 
-The checked-in `.env.qa` contains the practice URLs and is safe to use:
+The copied `.env.qa` contains these practice URLs and is safe to use:
 
 - UI: `https://playwright.dev`
 - API: `https://jsonplaceholder.typicode.com`
